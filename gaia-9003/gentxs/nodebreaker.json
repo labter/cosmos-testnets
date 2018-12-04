@@ -44,7 +44,7 @@
           "type": "tendermint/PubKeySecp256k1",
           "value": "AzLIzz15K6QTmTfIjmbWvpRByVlfghbRXqOlh7gHptz2"
         },
-        "signature": "cRA5v+6dP4NEYmEMTU3nPPBgUm96mE7iadxc+aHXk/hB5cMyQmulQXP35sO/Otlmfr3KEcY8RXONwCjxHcBEOg==",
+        "signature": "Poo7LHzC/oaTUNX8RBmNGYCGWpdgygWQLwSyWDoJYJQbK4pHA3/yOzKeqdclUDsJSNzRkpJ13thFuWIi9+3E5A==",
         "account_number": "0",
         "sequence": "0"
       }
